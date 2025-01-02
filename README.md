@@ -61,7 +61,7 @@
   
   |Organization|Activity|Position|Achieve|Date|
   |:---:|:---:|:---:|:---:|:---:|
-  |SSAFY 11기|SAMSUNG SW ACADEMY FOR YOURTH|Trainee|완료|2024.01.04~2024.12.29|
+  |SSAFY 11기|SAMSUNG SW ACADEMY FOR YOURTH|Trainee|완료|2024.01.02~2024.12.31|
   |SSAFY 11기|SSAFY 관통 프로젝트, 야구에 입문하는 초보 팬들을 위한 웹사이트[Bunt]|Team Member<br> BE & FE, 기획, 디자인|완료|2024.05.16~2024.05.23|
   |SSAFY 11기|SSAFY 공통 프로젝트, 우울감을 겪는 사람들을 위한 마음치료 서비스[BITAMIN]|Team Member<br> BE & FE, 기획, 디자인|완료|2024.07.02~2024.08.15|
   |SSAFY 11기|SSAFY 특화 프로젝트, 여행 예산 관리 어플리케이션[Triplet]|Team Member<br> BE, 기획|완료|2024.08.19~2024.10.11|
