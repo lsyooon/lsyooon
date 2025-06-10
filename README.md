@@ -58,7 +58,7 @@
 </div>
 <hr>
 <div>
-  <h3>🎮 Activities</h3>
+  <h3>🪄 Activities</h3>
   
   |Organization|Activity|Position|Achieve|Date|
   |:---:|:---:|:---:|:---:|:---:|
