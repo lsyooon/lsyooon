@@ -49,13 +49,13 @@
   <h3>🤹‍♀️ Algorithm</h3>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus0658">
 </div>
-<div>
+<!-- <div>
   <h3>📑 Git Information</h3>
   <p>
   <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshyunee&layout=donut&theme=radical">
   <img width=500 src="https://streak-stats.demolab.com?user=lshyunee&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D">
   </p>
-</div>
+</div> -->
 <hr>
 <div>
   <h3>🪄 Activities</h3>
